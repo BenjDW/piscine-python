@@ -1,0 +1,7 @@
+How to use ft_package:
+
+from ft_package import morse_code
+
+transform your string text in morse morse_code
+print(morse_code("hello is me Mario")) # .... . .-.. .-.. --- / .. ... / -- . / -- .- .-. .. ---
+print(morse_code("hello")) # .... . .-.. .-.. ---
